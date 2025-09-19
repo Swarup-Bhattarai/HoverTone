@@ -1,4 +1,4 @@
-# HoverTone – Acoustic Levitator (FPGA + Ultrasonics)
+# HoverTone 
 
 **HoverTone** demonstrates **contactless levitation** using **40 kHz ultrasonic transducers** driven by an **FPGA (Terasic DE10-Lite)**.  
 By generating precise 40 kHz signals with controllable phase shifts, the system creates **standing acoustic waves** that trap and suspend lightweight objects (e.g., small beads, styrofoam) in mid-air.
